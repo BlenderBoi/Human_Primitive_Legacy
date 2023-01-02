@@ -25,3 +25,17 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 - This is not a Human Designer Addon but merely a simple "Primitive Asset" Addon. 
 - You should treat this addon like a primitive addon, similar to "Extra Objects Addon"
 
+
+| No | Model | Variation | Images |
+| --- | --- | --- | --- |
+|  | Human Base |  |  |
+| 1. | Human (Male) | 4 | --- |
+| 2. | Human (Female) | 4 | --- |
+|  | Body Parts |  |  |
+| 1. | Head | 5 | --- |
+| 2. | Eye | 3 | --- |
+| 3. | Ear | 5 | --- |
+| 4. | Mouth / Lips With Cavity | --- | --- |
+| 5. | Teeth | 2 | --- |
+| 6. | Hand | 8 | --- |
+| 7. | Feet | 8 | --- |
