@@ -26,6 +26,8 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 - You should treat this addon like a primitive addon, similar to "Extra Objects Addon"
 
 
+# Assets Included: 
+
 | No | Model | Variation | Images |
 | --- | --- | --- | --- |
 |  | Human Base |  |  |
