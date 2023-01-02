@@ -31,8 +31,10 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 | No | Model | Variation | Images |
 | --- | --- | --- | --- |
 |  | Human Base |  |  |
-| 1. | Human (Male) | 4 | --- |
-| 2. | Human (Female) | 4 | --- |
+| 1. | Human (Male) | 4 | ![MaleBaseMesh](https://user-images.githubusercontent.com/79613445/210204491-89fbace0-aa36-4cc1-b59b-3f06b91673c3.png)
+ |
+| 2. | Human (Female) | 4 | ![FemaleBaseMesh](https://user-images.githubusercontent.com/79613445/210204510-b6aa1664-9271-4ead-b279-e3c505be097b.png)
+ |
 |  | Body Parts |  |  |
 | 1. | Head | 5 | --- |
 | 2. | Eye | 3 | --- |
