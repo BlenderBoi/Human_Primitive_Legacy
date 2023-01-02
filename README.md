@@ -1,4 +1,4 @@
-# Human_Primitive
+# Human Primitive
 
 ![Banner](https://user-images.githubusercontent.com/79613445/210203955-04b65fa0-ab99-47f3-a459-de80b6cf0a1a.png)
 
