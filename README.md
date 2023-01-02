@@ -25,6 +25,12 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 - This is not a Human Designer Addon but merely a simple "Primitive Asset" Addon. 
 - You should treat this addon like a primitive addon, similar to "Extra Objects Addon"
 
+# Base Human Mesh :
+
+![Male](https://user-images.githubusercontent.com/79613445/210204698-2f655273-f768-4475-95c4-837cc79bcc90.png)
+
+![Female](https://user-images.githubusercontent.com/79613445/210204704-551b0d8b-7b77-4ef9-ae2a-26e757267a96.png)
+
 
 # Assets Included: 
 
