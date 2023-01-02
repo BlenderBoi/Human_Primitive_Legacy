@@ -34,10 +34,10 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 | 1. | Human (Male) | 4 | ![MaleBaseMesh](https://user-images.githubusercontent.com/79613445/210204491-89fbace0-aa36-4cc1-b59b-3f06b91673c3.png)|
 | 2. | Human (Female) | 4 | ![FemaleBaseMesh](https://user-images.githubusercontent.com/79613445/210204510-b6aa1664-9271-4ead-b279-e3c505be097b.png)|
 |  | Body Parts |  |  |
-| 1. | Head | 5 | --- |
-| 2. | Eye | 3 | --- |
-| 3. | Ear | 5 | --- |
-| 4. | Mouth / Lips With Cavity | --- | --- |
-| 5. | Teeth | 2 | --- |
-| 6. | Hand | 8 | --- |
-| 7. | Feet | 8 | --- |
+| 1. | Head | 5 | ![Heads](https://user-images.githubusercontent.com/79613445/210204545-659fe85f-ec48-49f5-bd41-3042df274abf.png)|
+| 2. | Eye | 3 | ![Eyeballs](https://user-images.githubusercontent.com/79613445/210204562-659a7d96-e9f5-46eb-8f68-182d0439da0a.png)|
+| 3. | Ear | 5 | ![Ears](https://user-images.githubusercontent.com/79613445/210204576-bcc4118a-bd0c-4493-8bcf-4b082fb74aa3.png)|
+| 4. | Mouth / Lips With Cavity | 1 | --- |
+| 5. | Teeth | 2 | ![Teeths](https://user-images.githubusercontent.com/79613445/210204614-c9b8f31e-bbcb-48c8-a48a-fef77c964e42.png)|
+| 6. | Hand | 8 | ![Hands](https://user-images.githubusercontent.com/79613445/210204624-6d9c905d-2f9b-41c2-b472-80b52c2084e6.png)|
+| 7. | Feet | 8 | ![Feets](https://user-images.githubusercontent.com/79613445/210204640-13ee70f9-93ab-4ead-aae0-ba656ac6e118.png)|
