@@ -4,7 +4,7 @@
 
 Human Primitive is a Addon that adds Human Base Mesh and tedious or commonly use Human Body Parts as Primitive into the Add Mesh Menu. 
 
-
+[HumanPrimitiveDemo.webm](https://user-images.githubusercontent.com/79613445/211126149-22b3cd03-2fb4-4063-8316-75c0594f8ba7.webm)
 
 The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so this is not a highly customizable Human Maker, instead this is a Simple Human Mesh Primitive, focusing on lower poly models, with different detail level / topology style to start from. 
 
@@ -24,6 +24,23 @@ The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so
 - The Model are not Game Ready
 - This is not a Human Designer Addon but merely a simple "Primitive Asset" Addon. 
 - You should treat this addon like a primitive addon, similar to "Extra Objects Addon"
+
+
+# Human Base Mesh With Rigs (Rigify) :
+
+You can Add Human Base Mesh with A Rigify Rig or Rigify Metarig (can be use as Deform Rigs), useful for Dummy Model for Animating or Rigging
+
+[RigDemo.webm](https://user-images.githubusercontent.com/79613445/211126232-29551d89-51c9-43cc-b3c3-229ae0b809e6.webm)
+
+
+
+# Hands With Basic Rigs for Posing :
+
+You can Add Hand with a Basic Rig with Rigify Setup or a Deform Skeleton
+
+[Hand.webm](https://user-images.githubusercontent.com/79613445/211126264-6a46c9e6-a9c5-4345-8111-b75d356289bf.webm)
+
+
 
 # Base Human Mesh :
 
