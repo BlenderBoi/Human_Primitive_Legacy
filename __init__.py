@@ -2,7 +2,7 @@
 bl_info = {
     "name": "Human Primitive",
     "author": "BlenderBoi",
-    "version": (1, 2),
+    "version": (1, 2, 1),
     "blender": (3, 00, 0),
     "description": "",
     "warning": "",

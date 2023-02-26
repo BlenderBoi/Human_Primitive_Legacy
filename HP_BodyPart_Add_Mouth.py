@@ -73,7 +73,7 @@ class HP_OT_BodyPart_Add_Mouth(bpy.types.Operator):
         if mode == "OBJECT":
 
             path = str(assets_Folder)
-            section = "\\Object\\"
+            section = "/Object/"
             directory = path + section
 
             Import_Objects = [("Mouth", self.name)]

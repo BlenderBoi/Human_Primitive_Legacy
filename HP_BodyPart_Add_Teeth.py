@@ -74,7 +74,7 @@ class HP_OT_BodyPart_Add_Teeth(bpy.types.Operator):
         if mode == "OBJECT":
 
             path = str(assets_Folder)
-            section = "\\Object\\"
+            section = "/Object/"
             directory = path + section
 
 

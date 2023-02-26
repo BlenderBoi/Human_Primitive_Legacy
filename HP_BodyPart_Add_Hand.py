@@ -84,7 +84,7 @@ class HP_OT_BodyPart_Hand(bpy.types.Operator):
         if mode == "OBJECT":
 
             path = str(assets_Folder)
-            section = "\\Object\\"
+            section = "/Object/"
             directory = path + section
 
 

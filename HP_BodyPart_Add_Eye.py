@@ -73,7 +73,7 @@ class HP_OT_BodyPart_Add_Eye(bpy.types.Operator):
         if mode == "OBJECT":
 
             path = str(assets_Folder)
-            section = "\\Object\\"
+            section = "/Object/"
             directory = path + section
 
             join_objects = []

@@ -145,7 +145,7 @@ class PRIMADE_OT_Human_Add_Male(bpy.types.Operator):
         if mode == "OBJECT":
 
             path = str(assets_Folder)
-            section = "\\Object\\"
+            section = "/Object/"
             directory = path + section
 
             filename = self.assets_lists[self.version]
